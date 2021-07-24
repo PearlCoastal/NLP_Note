@@ -10,3 +10,5 @@ Basic acknowledge of natural language processing models.
 7. How transformer solved long-distance dependency problem.
 8. Descrption of transformer models.
 
+
+👉 [Note](https://github.com/PearlCoastal/NLP_Note/blob/master/AttentionMechanism.md)
