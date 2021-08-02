@@ -1,4 +1,4 @@
-# NLP_Note
+#  Natural Language Processing
 Basic acknowledge of natural language processing models.
 
 1. Attention Mechanism
@@ -12,3 +12,9 @@ Basic acknowledge of natural language processing models.
 
 
 👉 [Note](https://github.com/PearlCoastal/NLP_Note/blob/master/AttentionMechanism.md)
+
+# Machine Learning Note
+
+About logistic regression and linear regression.
+
+👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.md)
