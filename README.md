@@ -26,3 +26,17 @@ Basic acknowledge of natural language processing models.
 5. Difference between logistic regression & linear regression.
 
 👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/%E5%88%86%E7%B1%BB%E7%AE%97%E6%B3%95.md)
+
+# Optimization Function
+
+1. Frame of Optimization function.
+2. SGD.
+3. SGD-Momentum.
+4. SGD with Nesterov Accerleratin(NAG).
+5. AdamGrad.
+6. AdamDelta.
+7. Adam.
+8. Nadam.
+9. 2 shortbacks of Adam.
+
+👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/OptimizationFunction.md)
