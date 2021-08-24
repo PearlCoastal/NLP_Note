@@ -41,6 +41,17 @@ Basic acknowledge of natural language processing models.
 
 👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/OptimizationFunction.md)
 
+# RNN and LSTM
+
+1. Why RNN.
+2. How RNN works.
+3. About LSTM.
+4. How LSTM solved long-distance dependencies problem.
+5. Gate Control of LSTM.
+6. [Difference between LSTM and GRU.](https://zhuanlan.zhihu.com/p/34203833)
+
+👉 [Note](https://github.com/PearlCoastal/NLP_Note/blob/master/RNN_LSTM.md)
+
 # Back Propagation
 
 1. Aim of back propagation.
