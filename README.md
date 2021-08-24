@@ -9,11 +9,9 @@ Basic acknowledge of natural language processing models.
 6. Some classifier function: Sigmoid, Softmax, Tanh and ReLu.
 7. Little about CNN and RNN.
 8. Vanishing gradient problem & explosion gradient problem.
-9. How LSTM solved long-term dependencies problem.
-10. Difference between LSTM & GRU.
-11. How transformer solved long-distance dependencies problem.
-12. Descrption of transformer models: Transformer Encoder & Transformer Decoder.
-13. Difference between Transformer Encoder & Transformer Decoder.
+9. How transformer solved long-distance dependencies problem.
+10. Descrption of transformer models: Transformer Encoder & Transformer Decoder.
+11. Difference between Transformer Encoder & Transformer Decoder.
 
 👉 [Note](https://github.com/PearlCoastal/NLP_Note/blob/master/AttentionMechanism.md)
 
@@ -38,6 +36,7 @@ Basic acknowledge of natural language processing models.
 7. Adam.
 8. Nadam.
 9. 2 shortbacks of Adam.
+10. Adam + SGD.
 
 👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/OptimizationFunction.md)
 
