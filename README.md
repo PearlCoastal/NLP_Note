@@ -47,8 +47,14 @@ Basic acknowledge of natural language processing models.
 2. How RNN works.
 3. About LSTM.
 4. How LSTM solved long-distance dependencies problem.
-5. Gate Control of LSTM.
-6. [Difference between LSTM and GRU.](https://zhuanlan.zhihu.com/p/34203833)
+5. Gate Control of LSTM:
+   - forget gate
+   - input gate
+   - output gate
+   - sigmoid & tanh
+6. Simpler LSTM: GRU
+   - reset gate
+   - update gate
 
 👉 [Note](https://github.com/PearlCoastal/NLP_Note/blob/master/RNN_LSTM.md)
 
