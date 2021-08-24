@@ -60,3 +60,9 @@ Basic acknowledge of natural language processing models.
 4. Good point of BP.
 
 👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/BackPropagation.md)
+
+# CFG -> CNF
+
+1. How to transform CFG to CNF.
+
+👉 [Note](https://github.com/PearlCoastal/NLP_Note/blob/master/CFG2CNF.md)
