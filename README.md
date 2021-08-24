@@ -40,3 +40,12 @@ Basic acknowledge of natural language processing models.
 9. 2 shortbacks of Adam.
 
 👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/OptimizationFunction.md)
+
+# Back Propagation
+
+1. Aim of back propagation.
+2. How Back propagation works.
+3. Difference between back and forward.
+4. Good point of BP.
+
+👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/BackPropagation.md)
