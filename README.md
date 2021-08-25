@@ -1,5 +1,5 @@
 #  Natural Language Processing
-Basic acknowledge of natural language processing models.
+Basic acknowledge of natural language processing model: Transformer.
 
 1. Attention Mechanism: Reasons why attention.
 2. Kinds of attention: soft & hard attention mechanism.
