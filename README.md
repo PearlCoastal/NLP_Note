@@ -39,7 +39,7 @@ Basic acknowledge of natural language processing model: Transformer.
 10. Adam + SGD.
 
 👉[Note](https://github.com/PearlCoastal/NLP_Note/blob/master/OptimizationFunction.md)
-
+    
 # RNN and LSTM
 
 1. Why RNN.
